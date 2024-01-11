@@ -1,82 +1,49 @@
 {
-    "jobTitle": [
+    "home": [
         {
-            "title": "a software developer",
+            "title": "Aspiring developer",
             "color": "rgb(57, 153, 0)"
-        },
-        {
-            "title": "a youTuber",
-            "color": "rgb(157, 100, 0)"
-        },
-        {
-            "title": "a founder and CEO at JT Devs",
-            "color": "rgb(153, 76, 150)"
-        },
-        {
-            "title": "an IT Lecturer",
-            "color": "rgb(0, 172, 230)"
-        }    
+        }
+        ],
+    "about": [ 
+        "My name is Jay-donn Hendricks, and I am an aspiring developer currently studying to become a junior developer in the tech industry. My journey began at the age of 7 when I first explored a computer. I was fascinated by its inner workings and the components it was made of, igniting my passion for technology. This fascination led me to start building my own computers at the age of 10.My love for coding grew during the times when I had to update software. Delving deeper into understanding software functionality changed my perception of how profoundly it influences the entire computer, from programs to games. Now, I am dedicated to pursuing my dreams, aiming to become the best version of myself. I aspire to create new technologies and software that will revolutionize the world as we know it, benefiting both myself and others."
+ 
     ],
-    "about": [
-        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
-        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
-    ],
-    "education": [
+    "resume": [
         {
             "id": 1,
-            "year": 2020,
-            "description": "I got my certificates on Data science",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+            "year": 2022,
+            "description": "I got my certificates on my 1st module: Facilitation",
+            "place": "Chrysalis Academy",
+            "type": "certificate"
         },
         {
             "id": 2,
-            "year": 2020,
-            "description": "I got my certificates on Advanced to Python",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+            "year": 2022,
+            "description": "I got my certificates on my 2nd module: Team Work",
+            "place": "Chrysalis Academy",
+            "type": "certificate"
         },
         {
             "id": 3,
-            "year": 2020,
-            "description": "I got my certificates on Intro to Python",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+            "year": 2022,
+            "description": "I got my certificates on my 3rd module: Project Management",
+            "place": "Chrysalis Academy",
+            "type": "certificate"
         },
         {
             "id": 4,
-            "year": 2015,
-            "description": "I got my certificate on Intro to Android Developer",
-            "place": "Study Jams",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
+            "year": 2022,
+            "description": "I got my certificate on First Aid",
+            "place": "Chrysalis Academy",
+            "type": "certificate"
         },
         {
             "id": 5,
-            "year": 2014,
-            "description": "I got my diploma on Software Engineering",
-            "place": "Tshwane University of Technology",
-            "type": "Diploma",
-            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
-        },
-        {
-            "id": 6,
-            "year": 2005,
-            "description": "Completed my course on PC Engineering",
-            "place": "Havatech",
-            "type": "Certificate",
-            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
-        },
-        {
-            "id": 7,
-            "year": 2000,
+            "year": 2020,
             "description": "Grade 12",
-            "place": "",
-            "type": "Certificate",
-            "certificate": ""
+            "place": "Albert Myburg Senior Secondary School",
+            "type": "Certificate"
         }
     ],
     "skills": [

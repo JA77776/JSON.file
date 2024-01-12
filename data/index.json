@@ -66,61 +66,70 @@
     ],
     "testimonials": [
         {
-            "name": "...",
-            "surname": "...",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "name": "Muttaqeen",
+            "surname": "Slamat",
+            "quotes": "I'm pleased to provide a testimonial for Jay-donn, an inspiring and hardworking aspiring web developer. He is not only dedicated to their craft but also a joy to work with. Their passion for web development is infectious, and they consistently go above and beyond to support their colleagues. He is an exceptional asset to any project or team, and I have no doubt that they will achieve great success in their web development journey.",
+            "profile": "https://drive.google.com/file/d/1JiIj9z0SV68f0wB8XxEqYv13sbhRoJKk/view?usp=drive_link"
         },
         {
-            "name": "...",
-            "surname": "...",
-            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+            "name": "Almuakhir",
+            "surname": "Jones",
+            "quotes": "What impressed me most about Jay-doon was his ability to adapt and find innovative solutions to any challenges that arose during the project. They were always proactive in addressing issues and consistently met deadlines, ensuring that our website was launched on time.",
+            "profile": "https://drive.google.com/file/d/1ScgUKXscxXT2Sho75eb2mUveilImUb2f/view?usp=drive_link"
         },
         {
-            "name": "...",
-            "surname": "...",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Tashreeq",
+            "surname": "Lee",
+            "quotes": "",
+            "profile": "https://drive.google.com/file/d/1MFU9Hiu_ELmC9vzm8qtx6ZyWoKXbx0hH/view?usp=drive_link"
         },
         {
-            "name": "...",
-            "surname": "...",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Thimna",
+            "surname": "Alam",
+            "quotes": "",
+            "profile": ""
         }
     ],
     "projects":[
         {
             "name": "BMI Calculator",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "description": "I built this application using HTML 5, CSS and Javascript.",
+            "image":"https://drive.google.com/file/d/1Ed-s0xC13tTsBjBBFsJJ8FV7sbVd5Ixz/view?usp=drive_link",
+            "alt":"Project image.",
             "gitHub": "https://github.com/JA77776/BMIcalculator.git",
             "netlify": "https://bmi-calculator-417a2d.netlify.app"
         },
         {
             "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "description": "This is my calculator app, and I built it using HTML 5, CSS and  Javascript.",
+            "image":"https://drive.google.com/file/d/11-ajNXlUmTXEH6ncEwXKkDVW9IevJV5x/view?usp=drive_link",
+            "alt":"Project image.",
+            "gitHub": "https://ja77776.github.io/CALCULATOR-V.2/",
+            "netlify": "https://subtle-gaufre-e9b3cf.netlify.app/"
         },
         {
-            "name": "Message believers Circle",
-            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "name": "To do list",
+            "description": "The to do list is one of my projects I did using HTML 5, CSS and Javascript.",
+            "image":"https://drive.google.com/file/d/14eHdkHPd0smU178eaUA7A_whQOibqPx4/view?usp=drive_link",
+            "alt":"Project image.",
+            "gitHub": "https://ja77776.github.io/toDoList/",
+            "netlify": "https://majestic-taffy-e22c34.netlify.app/"
         },
         {
-            "name": "JT Laptop",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "name": "Minutes to seconds",
+            "description": "I created a converter using HTML, CSS and Javascript.",
+            "image":"https://drive.google.com/file/d/1L5lTHVZQ8oJgfLQ0iRIReOkMKGtFsDhU/view?usp=drive_link",
+            "alt":"Project image.",
+            "gitHub": "https://ja77776.github.io/MinutesToSeconds/",
+            "netlify": "https://melodic-halva-6258ff.netlify.app/"
         },
         {
-            "name": "JS Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "name": "Temperature converter",
+            "description": "I built converter using only HTML, CSS and Javascript.",
+            "image": "https://drive.google.com/file/d/1frSSlTUX2KH6PKeXkwwFxgkF9G7v7jvt/view?usp=drive_link",
+            "alt":"Project image.",
+            "gitHub": "https://ja77776.github.io/Thermal/",
+            "netlify": "https://jade-hummingbird-8e5285.netlify.app/"
         }
     ]
 }
